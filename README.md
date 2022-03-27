@@ -1,8 +1,10 @@
-# Repositório público do Ithamar
+# Técnico de informática Ithamar
 
- curso de html5 e css3
+Estudando: 
+* HTML 5
+* CSS 3
+* JS
+* PHP
+* MYSQL
 
-
-<p>Desafios Feitos</p>
-
- * <a href="https://ithamarluis.github.io/html-css/desafios/d010-meu/index.html"> Meu 10° desafio </a>
+Estou focando, atualmente, mais em HTML 5 e CSS 3.
